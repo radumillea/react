@@ -1,0 +1,25 @@
+{
+  "name": "radumillea.udemy.react",
+  "version": "1.0.0",
+  "description": "lines of code and project to learn React with guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "test app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radumillea/react.git"
+  },
+  "keywords": [
+    "react",
+    "git",
+    "tutorial",
+    "course"
+  ],
+  "author": "Radu Millea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radumillea/react/issues"
+  },
+  "homepage": "https://github.com/radumillea/react#readme"
+}
